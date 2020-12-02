@@ -1,4 +1,4 @@
-package com.okta.kotlin
+package com.okta.kotlin;
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue
